@@ -23,17 +23,17 @@ txt 파일과 mp3 파일 3개를 /bin/data 에 넣어준다.
  
 #### < Player 동작에 관련된 키 소개 >
 
-> Up Key(↑) => 윗쪽으로 이동		
+> Up Key(↑) : 윗쪽으로 이동		
 > 
-> Down Key(↓) => 아랫쪽으로 이동
+> Down Key(↓) : 아랫쪽으로 이동
 > 
-> Left Key(←) => 왼쪽으로 이동		
+> Left Key(←) : 왼쪽으로 이동		
 > 
-> Right Key(→) => 오른쪽으로 이동
+> Right Key(→) : 오른쪽으로 이동
 > 
-> Space Key => 물풍선을 놓음	
+> Space Key : 물풍선을 놓음	
 > 
-> Shift Key => 물풍선을 터뜨림
+> Shift Key : 물풍선을 터뜨림
 
 --------
 
