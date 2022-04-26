@@ -46,3 +46,9 @@ txt 파일과 mp3 파일 3개를 /bin/data 에 넣어준다.
 > 물풍선을 여러개 놓을 수 있다. (Score 에 의존하므로 블록들을 제거하여 실행)
 > 
 > 또한 물풍선을 밀 수 있다.
+
+--------
+
+##### < 실행 결과 >
+
+<img src="https://user-images.githubusercontent.com/81675254/165307345-a12eb9db-dc11-4295-9812-9b371cd5de94.gif" width="900" height="500">
